@@ -3,6 +3,19 @@
 **Important Notice**  
 This guide is for educational purposes or authorized testing only. Performing phishing attacks without permission is illegal and can result in severe consequences, including legal action.
 
+## What is a Phishing Attack?
+A phishing attack is a type of cybercrime where attackers impersonate legitimate organizations or individuals to trick people into revealing sensitive information, such as passwords, credit card numbers, or personal data. The attackers often use emails, fake websites, or messages.
+
+**Most common Phishing Attacks:**
+
+- Website Clone: fake replica of a legitimate website created by attackers to trick users into entering sensitive information. It’s often used in phishing attacks to steal data like passwords or payment details.
+- Email Phishing: Fraudulent emails that look like they’re from banks, tech companies, or online services asking you to click on a link and enter personal information.
+- Spear Phishing: A more targeted phishing attack where attackers research a specific individual or organization to make their messages more convincing.
+- Smishing: Phishing attacks carried out via text messages (SMS) to trick users into revealing personal information.
+- Vishing: Phishing attempts made over phone calls, often pretending to be from banks or government officials.
+
+**It’s important to be cautious of unsolicited messages, verify the authenticity of requests, and avoid clicking on suspicious links.**
+
 ## Required Tools
 To carry out this simulation, ensure the following system is installed and configured in a virtual test environment:
 
