@@ -45,6 +45,9 @@ The **SET Toolkit** is an open-source tool designed to assist security professio
 You will see the "login screen" of the cloned Facebook site. Once a user enters their login information, the credentials will be displayed in the terminal of your Kali Linux machine.
 
 
+![Alt text](./passwd.png "Optional title")
+
+
 
 **Attack Method**: Credential Harvester Attack Method  
 **Cloning Method**: `Site Cloner or Custom Import` (If you want to test using Custom Import, check out this README: https://github.com/RLLKLLSS/cibersecurity-desafio-phishing/blob/master/README.md *Helped me a lot btw*)                            
